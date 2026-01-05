@@ -32,4 +32,5 @@ This project focuses on analyzing Superstore retail sales data to derive meaning
 This project replicates real-world analytics work, showcasing skills in data preprocessing, SQL querying, business intelligence, and storytelling with data.
 
 ## 👤 Developed By
-Your Name
+Satish shetty
+
